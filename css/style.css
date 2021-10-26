@@ -1,0 +1,253 @@
+.container
+{
+    background-color: #edf2c5;
+    height: 880px;
+    width: 1260px;
+    font-family: Arial;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header_Vegetables
+{
+    position: absolute;
+    margin-top: 36px;
+    margin-left: 160px;
+    width: 271px;
+    height: 62px;
+    font-size: 44px;
+    font-family: "Arial Black";
+    color:#778a50;
+}
+.fb_logo
+{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 900px;
+}
+.ig_logo
+{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 935px;
+
+}
+.line01
+{
+    position: absolute;
+    width: 1px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 970px;
+    background-color: #778a50;
+}
+.login_box
+{
+    position: absolute;
+    width: 60px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 981px;
+    font-weight: bold;
+    color: #778a50;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+
+}
+.login 
+{
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 990px;
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #778a50;
+}
+.join_box
+{
+    position: absolute;
+    width: 49px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 1051px;
+    font-weight: bold;
+    color: #778a50;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+}
+.join
+{
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 1060px;
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #778a50;
+}
+.nav_box {
+    position: absolute;
+    width: 940px;
+    height: 44px;
+    margin-top: 103px;
+    margin-left: 160px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+.nav_list
+{
+    position: absolute;
+    list-style: none;
+    font-family: "Arial Black";
+    color: #edf2c5;
+    display: flex;
+}
+.nav_list_item
+{
+    margin: -5px 50px 5px 0px;
+}
+.pic01
+{
+    position: absolute;
+    width: 940px;
+    height: 448px;
+    margin-top: 60px;
+}
+.box01
+{
+    position: absolute;
+    width: 444px;
+    height: 45px;
+    margin-top: 540px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+.Vegetable_small
+{
+    position: absolute;
+    width: 98px;
+    height: 23px;
+    font-size: 16px;
+    font-weight: 900;
+    margin-top: 550px;
+    margin-left: 30px;
+    font-family: Arial;
+    color: #edf2c5;
+}
+.box02
+{
+    position: absolute;
+    width: 444px;
+    height: 45px;
+    margin-top: 540px;
+    margin-left: 495px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+.Contact
+{
+    position: absolute;
+    width: 98px;
+    height: 23px;
+    font-size: 16px;
+    font-weight: 900;
+    margin-top: 550px;
+    margin-left: 530px;
+    font-family: Arial;
+    color: #edf2c5;
+}
+.pic02
+{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    margin-top: 605px;
+}
+.pic03
+{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    margin-top: 605px;
+    margin-left: 152px;
+}
+.pic04
+{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    margin-top: 605px;
+    margin-left: 305px;
+}
+.box03
+{
+    position: absolute;
+    width: 444px;
+    height: 140px;
+    margin-top: 606px;
+    margin-left: 495px;
+    background-color: #f7fbda;
+}
+.p01
+{
+    position: absolute;
+    width: 414px;
+    height: 44px;
+    margin-top: 620px;
+    margin-left: 515px;
+    line-height: 1.25;
+    font-size: 12px;
+    font-family: Arial;
+    color: #7d7d7d;
+}
+.line02
+{
+    position: absolute;
+    width: 414px;
+    height: 1px;
+    margin-top: 15px;
+    margin-left: -5px;
+    background-color: #7d7d7d;
+}
+.p02
+{
+    position: absolute;
+    width: 197px;
+    height: 35px;
+    margin-top: 30px;
+    line-height: 1.5;
+    font-size: 12px;
+    font-family: Arial;
+    color: #7d7d7d;
+}
+.box04
+{
+    position: absolute;
+    width: 1260px;
+    height: 60px;
+    margin-top: 110px;
+    margin-left: -675px;
+    background-color: #778a50;
+
+}
+.footer
+{
+    position: absolute;
+    width: 301px;
+    height: 14px;
+    margin-top: 120px;
+    margin-left: -200px;
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 3;
+    text-align: left;
+    color: #edf2c5;
+}
+
